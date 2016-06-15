@@ -22,9 +22,9 @@ public static void countWords(String name) throws FileNotFoundException
                     other_longest += ", " + current_Word;
             }
         }
-        System.out.println("Words: " + words);
-        System.out.println("Characters: " + characters);
-        System.out.println("Longest Words: " + longest + other_longest);
-        System.out.println("Average Word Length: " + characters/words);
+        System.out.println("There were " + words + " words");
+        System.out.println("There were " + characters + " characters");
+        System.out.println("The longest word was " + longest + other_longest);
+        System.out.println("The Average Word Length was " + characters/words);
     }
 
