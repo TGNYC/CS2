@@ -9,21 +9,21 @@ import java.util.Scanner;
 public class GREP {
 
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner user = new Scanner(System.in);
-        String input = user.next();
+        Scanner sc = new Scanner(System.in);
+        String input = sc.next();
         
-        File txt = new File("sample.txt");
-        Scanner f = new Scanner(txt);
-        String x = f.nextLine();
-        int ln = 0;
-        while(f.hasNextLine())
+        File text = new File("sample.txt");
+        Scanner scan = new Scanner(text);
+        String x = scan.nextLine();
+        int line_number = 0;
+        while(scan.hasNextLine())
         {
-            ln++;
+            line_number++;
             if(x.contains(input))
             {
-                System.out.println(ln+": "+ x);
+                System.out.println(line_number + ": " + x);
             }
-            x=f.nextLine();
+            x = scan.nextLine();
         }
     }
 }
