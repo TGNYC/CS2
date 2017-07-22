@@ -103,6 +103,14 @@ Output: 9
 ```
 
 ___
+[Rectangle Function](https://github.com/TGNYC/CS2/blob/master/RectangleFunction.java)
+*10/13/15*
+
+RECTANGLE FUNCTION: Read the attached document and then write 2 new functions that 1- determines if a point lies in the boundary of a rectangle and 2- determine if the rectangle is parallel to the x-axis
+
+___
+
+___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
 
