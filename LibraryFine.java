@@ -30,10 +30,41 @@ public class LibraryFine {
         System.out.println("Enter last name.");
         lastname= input.next();
         // gets last name
+  
+        double maxfin = -1;
+        double minfin = 11;
+        double sum = 0;
+        // intializes variables
         
-        double fine1, fine2, fine3, fine4, fine5, fine6, fine7, fine8, fine9, fine10;
-        double maxfine = Math.max( fine1, Math.max( fine2, Math.max( fine3, Math.max( fine4, Math.max( fine5, Math.max( fine6, Math.max( fine7, Math.max( fine8, Math.max(fine9, fine10)))))))));
+        for(int loop = 0; loop < 10;) {
+            int finenum = loop + 1;
+            System.out.println("Enter fine number " + finenum);
+            double fine = input.nextDouble();
+            // inputs fine
+            sum += fine;
+            // finds sum
+            if (fine > maxfin) {
+                maxfin = fine;
+            }
+            // finds max
+            if (minfin > fine) {
+                minfin = fine;
+            }
+            // finds min
+            loop++;
+        }
+             
+        String output;
+        output = firstname + " " + middlename + " " + lastname + ", your total fine is $" + sum;
+        JOptionPane.showMessageDialog(null, output);
         
+        String maxfineoutput = "Your maximum fine is $" + maxfin;
+        JOptionPane.showMessageDialog(null, maxfineoutput);
+        
+        String minfineoutput = "Your minimum fine is $" + minfin;
+        JOptionPane.showMessageDialog(null, minfineoutput); 
+        
+        // output as expected - 9/30/15
         
     }
     
