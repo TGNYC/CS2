@@ -111,6 +111,12 @@ ___
 RECTANGLE FUNCTION: Read the attached document and then write 2 new functions that 1- determines if a point lies in the boundary of a rectangle and 2- determine if the rectangle is parallel to the x-axis
 
 ___
+[Point Class](https://github.com/TGNYC/CS2/blob/master/Point.java)
+*10/14/15*
+
+POINT CLASS: Write a class called Point. Point has 2 attributes x and y. Allow for a constructor and sets and gets
+
+___
 
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
