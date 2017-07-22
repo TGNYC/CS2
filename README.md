@@ -90,11 +90,13 @@ RUNNING SPEED CAPACITY v2: Use Your RunSpeed function to generate speeds for 5 p
 
 ___
 [Date Functions](https://github.com/TGNYC/CS2/blob/master/DateFunctions.java)
+*10/07/15*
 
 DATE FUNCTIONS: Create several functions that calculate dates in various ways. FIRST write a DateConvert Function that takes in a month, day and year and calculates the JULIAN DATE (YYYYDDD). Then write a function Datefrom Julian that TAKES in a julian date (YYYYDDD) and returns the date in MM DD YYYY format. FInally write a DAYS BETWEEN method that takes in 2 dates and returns the NUMBER OF DAYS THAT EXIST BETWEEN THESE TWO DATES
 
 ___
 [Math Functions](https://github.com/TGNYC/CS2/blob/master/MathFunctions.java)
+*10/09/15*
 
 MATH FUNCTIONS: Write a function that accepts 2 numbers and an operation and then applys that operation and returns the answer. Example:
 ```java
