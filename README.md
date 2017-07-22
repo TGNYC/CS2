@@ -31,7 +31,7 @@ Output: 8 letters, YES, 3
 
 ___
 [ExactAgeCalc](https://github.com/TGNYC/CS2/blob/master/ExactAgeCalc.java)
-*09/24/17*
+*09/24/15*
 
 EXACTAGECALC:
 Accept a month day and year of birth. Get the current date and determine a persons full age as in YEARS plus days old. Example:
@@ -39,6 +39,30 @@ Accept a month day and year of birth. Get the current date and determine a perso
 Date: 9-27-2015
 Input: 9-26-2000
 Output: 14 years and 364 days old
+```
+
+___
+[Library Fine](https://raw.githubusercontent.com/TGNYC/CS2/master/LibraryFine.java)
+*09/29/15*
+
+LIBRARYFINE: Write a Java Application that reads in a persons full name (First Middle and Last) along with the fines they owe on 10 books.  The fines range from no fine .0 to a fine of 10.95Ask the user for the information and then calculate the TOTAL fine they oweDisplay their FULL NAME along with their TOTAL FINE. YOU MUST Write code to process this information using ALL ofThe I/O methods we discussed: JOptionPane ScannerAlso Display the Largest Fine and the Smallest Fine. Example:
+```java
+Please Enter Your First Name:	David
+Please Enter Your Middle Name:	John
+Please Enter Your Last Name:	Farrell
+
+Enter the Fine for the First Book:	  .10
+Enter the Fine for the Second Book:	1.10
+Enter the Fine for the Third Book:	3.10
+Enter the Fine for the Fourth Book:	8.10
+Enter the Fine for the Fifth Book:	    .0
+Enter the Fine for the Sixth Book:	  .70
+Enter the Fine for the Seventh Book:   .90
+Enter the Fine for the Eighth Book:	  .05
+Enter the Fine for the Ninth Book:	  .10
+Enter the Fine for the Tenth Book:	  .10
+
+David John Farrell, Your total fine is: $14.25
 ```
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
