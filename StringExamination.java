@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author TGuptaNYC
+ * @author TGNYC
  */
 public class StringExamination {
 
