@@ -1,6 +1,13 @@
 # CS2
 My Computer Science Class
 
+---
+[Input Output without Scanner](https://github.com/TGNYC/CS2/blob/master/InputOutput.java)
+*09/15/15*
+
+INPUT OUTPUT WITHOUT SCANNER:
+Without using the Scanner class, examine the Java API and write a program that takes in a Players Name as well as their 3 Golf Scores, then determine and display (without using System.out.println) their AVERAGE Score.
+
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
