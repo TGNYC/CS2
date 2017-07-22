@@ -18,6 +18,16 @@ You can use JoptionPane or Scanner to do the following: Read in a person's FIRST
 Input: SallyJoeBob 09 2000
 Output: SallyJoeBob, you are NOT over 18 years old.
 ```
+
+___
+[String Examination](https://github.com/TGNYC/CS2/blob/master/StringExamination.java)
+*09/21/15*
+
+STRING EXAMINATION: Read in a String and determine the following: TOTAL number of letters, If it starts with a Vowel, Total number of numbers in the string. Example:
+```java
+Input:  Apple123
+Output: 8 letters, YES, 3
+```
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
