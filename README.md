@@ -28,6 +28,18 @@ STRING EXAMINATION: Read in a String and determine the following: TOTAL number o
 Input:  Apple123
 Output: 8 letters, YES, 3
 ```
+
+___
+[ExactAgeCalc](https://github.com/TGNYC/CS2/blob/master/ExactAgeCalc.java)
+*09/24/17*
+
+EXACTAGECALC:
+Accept a month day and year of birth. Get the current date and determine a persons full age as in YEARS plus days old. Example:
+```java
+Date: 9-27-2015
+Input: 9-26-2000
+Output: 14 years and 364 days old
+```
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
