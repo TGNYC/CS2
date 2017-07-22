@@ -1,13 +1,23 @@
 # CS2
 My Computer Science Class
 
----
+___
 [Input Output without Scanner](https://github.com/TGNYC/CS2/blob/master/InputOutput.java)
 *09/15/15*
 
 INPUT OUTPUT WITHOUT SCANNER:
 Without using the Scanner class, examine the Java API and write a program that takes in a Players Name as well as their 3 Golf Scores, then determine and display (without using System.out.println) their AVERAGE Score.
 
+___
+[Over Eighteen With JOption Pane](https://github.com/TGNYC/CS2/blob/master/OverEighteen.java)
+*09/17/2015*
+
+OVER EIGHTEEN WITH JOPTION PANE:
+You can use JoptionPane or Scanner to do the following: Read in a person's FIRST NAME , BIRTHDAY(MONTH AND YEAR). Then using the current Month and Year determine if the person is OVER 18 years old. Display a result. Example:
+```java
+Input: SallyJoeBob 09 2000
+Output: SallyJoeBob, you are NOT over 18 years old.
+```
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
