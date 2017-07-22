@@ -99,7 +99,8 @@ ___
 MATH FUNCTIONS: Write a function that accepts 2 numbers and an operation and then applys that operation and returns the answer. Example:
 ```java
 Input: 4, 5, +
-Output: 9```
+Output: 9
+```
 
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
