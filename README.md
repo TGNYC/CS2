@@ -75,6 +75,32 @@ A B c F Y	has a value of 332
 
 Y has an ACSII value of 89
 ```
+
+___
+[Running Speed Capacity](https://github.com/TGNYC/CS2/blob/master/RunningSpeedCapacity.java)
+*10/02/15*
+
+RUNNING SPEED CAPACITY: Using what we learned yesterday, Write a function called RunSpeedCapacity. This function should take in arguments that you could use to calculate and RETURN a person's maximum speed. For example, you can pass in a persons weight height stride and age to MAKE YOUR own formula to determine that persons running speed. GET all the required data from SPVM and then CALL your function and display the result it gives you. The formula does not have to be perfect, so you can have a little fun with your calculations. For example: if someone is 72 inches tall, 180 pounds and has a stride of 34 inches and is 22 years old, my calculation would be that person can run at a top speed of 14 miles per gour.
+
+___
+[Running Speed Capacity v2](https://github.com/TGNYC/CS2/blob/master/RunningSpeedCapacity2.java)
+*10/05/15*
+
+RUNNING SPEED CAPACITY v2: Use Your RunSpeed function to generate speeds for 5 people. Ask for the data for each person and then Determine and DIsplay The people by order of their respective Speed. THEN ADD A RACE FUNCTION that uses randomness and a persons speed to determine who would win a race by using the randomness as a mitigating factor (injury, etc). DIsplay the winners of each "RACE"
+
+___
+[Date Functions](https://github.com/TGNYC/CS2/blob/master/DateFunctions.java)
+
+DATE FUNCTIONS: Create several functions that calculate dates in various ways. FIRST write a DateConvert Function that takes in a month, day and year and calculates the JULIAN DATE (YYYYDDD). Then write a function Datefrom Julian that TAKES in a julian date (YYYYDDD) and returns the date in MM DD YYYY format. FInally write a DAYS BETWEEN method that takes in 2 dates and returns the NUMBER OF DAYS THAT EXIST BETWEEN THESE TWO DATES
+
+___
+[Math Functions](https://github.com/TGNYC/CS2/blob/master/MathFunctions.java)
+
+MATH FUNCTIONS: Write a function that accepts 2 numbers and an operation and then applys that operation and returns the answer. Example:
+```java
+Input: 4, 5, +
+Output: 9```
+
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
