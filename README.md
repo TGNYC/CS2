@@ -42,7 +42,7 @@ Output: 14 years and 364 days old
 ```
 
 ___
-[Library Fine](https://raw.githubusercontent.com/TGNYC/CS2/master/LibraryFine.java)
+[Library Fine](https://github.com/TGNYC/CS2/blob/master/LibraryFine.java)
 *09/29/15*
 
 LIBRARYFINE: Write a Java Application that reads in a persons full name (First Middle and Last) along with the fines they owe on 10 books.  The fines range from no fine .0 to a fine of 10.95Ask the user for the information and then calculate the TOTAL fine they oweDisplay their FULL NAME along with their TOTAL FINE. YOU MUST Write code to process this information using ALL ofThe I/O methods we discussed: JOptionPane ScannerAlso Display the Largest Fine and the Smallest Fine. Example:
