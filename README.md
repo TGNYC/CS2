@@ -117,6 +117,46 @@ ___
 POINT CLASS: Write a class called Point. Point has 2 attributes x and y. Allow for a constructor and sets and gets
 
 ___
+[Alarm Clock](https://github.com/TGNYC/CS2/blob/master/AlarmClock.java)
+*10/19/15*
+
+ALARM CLOCK: alarm clock class with properties: wake up time, boolen, current time, sound and methods: select sound, check for alarm, play alarm, set time
+
+___
+[Dynamic Point](http://notepad.cc/dynamicpoint) // file is missing
+*10/21/15*
+
+DYNAMIC POINT: Using your POINT class, WRite a class called DynamicPoints. This class uses your Point class, The class accepts in 2 Points that define a VERTICAL LINE SEGMENT. THEN, create a LINE that emanates from (0,0) by RANDOMLY generating a SLOPE for that line. FInally, allow the class to determine if the generated LINE PASSES THRU the Vertical Line SEgment.
+
+___
+[Apartment](https://github.com/TGNYC/CS2/blob/master/Apartment.java)
+*11/02/15*
+
+APARTMENT: PRAC: Build an Apartment class with Attributes for Maintaining info apartments like rooms, floor, rent, num rooms, num occupants, central air and the respective sets & gets. RESTRICTIONS: rooms must be between 1 and 5, occupants between 1 and 10. Add Sets & Gets to the class and use them PLUS. A calc monthly rent method: Rent = num occ * num rooms * 100 +/- A/C (200 plus w/ -100 w/out). Allow for THREE OVERLOADED constructorsSPVM to run it and show your constructors and methods work as intended.
+
+___
+[Circle](https://github.com/TGNYC/CS2/blob/master/Circle.java)
+*11/09/15*
+
+CIRCLE: Write a Circle Class that has state for RADIUS, AREA, DIAMETER, NAME and Circumference . Allow the class to CONSTRUCT with either the radius, diameter OR circumference. YOU MUST THEN DERIVE the remaining 2 values. Have a CALCULATE AREA method and sets for the area, diameter and circumference. IF YOU change any of those, the remaining values MUST be recalculated.
+
+___
+[Circle Array](https://github.com/TGNYC/CS2/blob/master/CircleArray.java)
+*11/10/15*
+
+CIRCLE ARRAY: Create an Array of your Circle class, 100, circles. Make sure all circles have a radius, etc. Then, in SPVM, ask for a number then display the number of Circles that have a Radius GREATER than or EQUAL to the stated number.
+
+___
+[Dice Roll](https://github.com/TGNYC/CS2/blob/master/DiceRoll.java)
+*10/16/15*
+
+DICE ROLL: As we discussed in class, create a program that simulates X number of dice rolls (2 die added). Display the frequency distribution. THEN display the distribution IN ORDER OF THEIR FREQUENCY.
+
+___
+[Arithmetic Expressions](https://github.com/TGNYC/CS2/blob/master/ArithmeticExpressions.java)
+*10/18/15*
+
+ARITHMETIC EXPRESSIONS: [See attached .pdf](https://github.com/TGNYC/CS2/blob/master/Arithmetic%20Expressions.pdf)
 
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
