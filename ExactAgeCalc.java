@@ -15,9 +15,7 @@ public class ExactAgeCalc {
     public static void main(String[] args) {
         /* 
             Author: TGNYC
-            Date: 9/21/2016
-            Description: Takes a string
-            Output: How many characters, whether it starts with a vowel, how many uppercase letters, how many numbers
+            Date: 9/24/2016
         */
         
         String name;
