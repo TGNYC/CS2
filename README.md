@@ -33,7 +33,7 @@ ___
 [ExactAgeCalc](https://github.com/TGNYC/CS2/blob/master/ExactAgeCalc.java)
 *09/24/15*
 
-EXACTAGECALC:
+EXACT AGE CALC:
 Accept a month day and year of birth. Get the current date and determine a persons full age as in YEARS plus days old. Example:
 ```java
 Date: 9-27-2015
@@ -45,7 +45,7 @@ ___
 [Library Fine](https://github.com/TGNYC/CS2/blob/master/LibraryFine.java)
 *09/29/15*
 
-LIBRARYFINE: Write a Java Application that reads in a persons full name (First Middle and Last) along with the fines they owe on 10 books.  The fines range from no fine .0 to a fine of 10.95Ask the user for the information and then calculate the TOTAL fine they oweDisplay their FULL NAME along with their TOTAL FINE. YOU MUST Write code to process this information using ALL ofThe I/O methods we discussed: JOptionPane ScannerAlso Display the Largest Fine and the Smallest Fine. Example:
+LIBRARY FINE: Write a Java Application that reads in a persons full name (First Middle and Last) along with the fines they owe on 10 books.  The fines range from no fine .0 to a fine of 10.95Ask the user for the information and then calculate the TOTAL fine they oweDisplay their FULL NAME along with their TOTAL FINE. YOU MUST Write code to process this information using ALL ofThe I/O methods we discussed: JOptionPane ScannerAlso Display the Largest Fine and the Smallest Fine. Example:
 ```java
 Please Enter Your First Name:	David
 Please Enter Your Middle Name:	John
@@ -63,6 +63,17 @@ Enter the Fine for the Ninth Book:	  .10
 Enter the Fine for the Tenth Book:	  .10
 
 David John Farrell, Your total fine is: $14.25
+```
+
+___
+[Character Application](https://github.com/TGNYC/CS2/blob/master/CharacterApplication.java)
+*09/30/15*
+
+CHARACTER APPLICATION: Write a Java application that reads in FIVE characters and displays them Combined along with their total ASCII valueAlso display on a separate line the last character entered along with its ASCII Value. Example:
+```java
+A B c F Y	has a value of 332
+
+Y has an ACSII value of 89
 ```
 ___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
