@@ -3,7 +3,7 @@
 My sophomore Computer Science 2 class. 
 
 ## All Projects
-___
+
 [Input Output without Scanner](https://github.com/TGNYC/CS2/blob/master/InputOutput.java)
 *09/15/15*
 
