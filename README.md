@@ -161,6 +161,73 @@ ___
 ARITHMETIC EXPRESSIONS: [See attached .pdf](https://github.com/TGNYC/CS2/blob/master/Arithmetic%20Expressions.pdf)
 
 ___
+[Physics Quiz](https://github.com/TGNYC/CS2/blob/master/PhysicsProject.java)
+
+PHYSICS PROJECT: In physics, there are four linear motion formulas. These formulas all involve four of the following five variables: original velocity (v0), final velocity (vf), acceleration (a), distance (d), and time (t). The four formulas are listed below.
+
+* d = .5*(v0 + vf)*t	
+* a = (vf-v0)/t
+* d = v0*t + .5*a*t2	
+* d = (vf2-v02)/(2*a)
+
+The program must prompt for all five variables. The user will then enter numbers for three of the variables and question marks ("?") for the other two variables. If the user enters too many or too few question marks, the program must ask the user to reenter. Once the user has entered the values, the program must determine which formulas to use and derive the answers for the two unknown variables. Example:
+
+```java
+Enter original velocity: 0 Enter final velocity: 100 Enter distance: ? 
+Enter time: ? 
+Enter acceleration: 9.8
+distance = 510.204 	time = 10.204
+Do you want to do another calculation (y or n): y
+Enter original velocity: 0 Enter final velocity: 100 Enter distance: ? 
+Enter time: ? 
+Enter acceleration: ?
+INCORRECT INPUT! Please reenter
+Enter original velocity: 0 Enter final velocity: 100 Enter distance: ? 
+Enter time: ? 
+Enter acceleration: 9.8
+distance = 510.204       time = 10.204
+Do you want to do another calculation (y or n): n
+```
+___
+[Conditional Expressions Projects](https://github.com/TGNYC/CS2/blob/master/ConditionalExpressionsProjects.java)
+
+CONDITIONAL EXPRESSION PROJECTS: [See attached .pdf](https://github.com/TGNYC/CS2/blob/master/ConditionalExpressionProjects.pdf)
+
+___
+[Holiday Class](https://github.com/TGNYC/CS2/blob/master/Holiday.java) (c) Jon Moss @maclover7
+
+HOLIDAY CLASS: THIS CLASS NEEDS TO SERVE AS A SET OF UTILITY METHODS THAT ASSIST YOU IN DETERMINING ON WHICH DATES VARIOUS HOLIDAYS FALL.
+
+___
+[Store Class](https://github.com/TGNYC/CS2/blob/master/Store.java)
+
+STORE FRONT: Write a “store” Class with a default and overloaded constructor. Attributes -- Location, Items[3], Owner, Phome number. Default and Overloaded Constructor with Sets and Gets. With array of items too.
+
+___
+[Inventory and Item Classes](https://github.com/TGNYC/CS2/blob/master/InventoryItem.java)
+
+___
+[Finished Drug Store](https://github.com/TGNYC/CS2/blob/master/DrugStore.java)
+
+STORE: Use the previous Store, Inventory, and Item classes to create a full store with a SPVM.
+
+___
+[Golf](https://github.com/TGNYC/CS2/blob/master/Golf.java)
+
+GOLF SCORES: DISPLAY the HIGHEST SCORE, LOWEST SCORE, AVERAGE SCORE and the TOTAL OVER or UNDER PAR of three golf scores.
+
+___
+[Updated Fast Food](https://github.com/TGNYC/CS2/blob/master/FastFood.java)
+
+FAST FOOD v2: Modify Fast Food to allow multiple customers to be processed during one run of your program. Report the day's statistics at the end of the day.
+
+___
+Iterative Structures Projects:
+
+* Reciprocal Squares
+* Factorial 
+* Add Cubes
+___
 [Text Analysis](https://github.com/TGNYC/CS2/blob/master/TextAnalysis.java)
 *06/13/16*
 
