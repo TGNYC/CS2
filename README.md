@@ -1,6 +1,8 @@
-# CS2
-My Computer Science Class
+# Computer Science 2
 
+My sophomore Computer Science 2 class. 
+
+## All Projects
 ___
 [Input Output without Scanner](https://github.com/TGNYC/CS2/blob/master/InputOutput.java)
 *09/15/15*
@@ -218,3 +220,6 @@ Please Enter a Word to Search For:
 the
 The word the appears 62 times in the file.
 ```
+___
+
+All code in this repository is owned by and has the copyright of Tejas Gupta. 
